@@ -39,7 +39,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   padding: 0 15px 0;
-  outline: 2px tomato dashed;
+  /*outline: 2px tomato dashed;*/
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -49,7 +49,7 @@ body {
 .section {
   margin: 0 auto 0;
   padding: 94px 0 94px;
-  outline: 3px blue solid;
+  /*outline: 3px blue solid;*/
 }
 
 .list {
